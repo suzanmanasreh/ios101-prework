@@ -15,9 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+![Imgur Image](https://i.imgur.com/YOg69Hs.gif)
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
@@ -40,7 +39,7 @@ One app idea is to create a crowdsourced textbook answers website or app that al
 
 ## Notes
 
-No challenged encountered. Swift is very straightforward, and I look forward to working with it.
+No challenged encountered. Swift is very straightforward, and I look forward to working with it. However, saving gifs through XCode results in really low-quality gifs for some reason.
 
 ## License
 
