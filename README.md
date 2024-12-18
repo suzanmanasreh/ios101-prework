@@ -43,7 +43,7 @@ No challenged encountered. Swift is very straightforward, and I look forward to 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Suzan Manasreh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
